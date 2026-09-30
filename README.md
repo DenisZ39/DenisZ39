@@ -1,31 +1,34 @@
-<h1 align="center">Hi there, I'm Denis Zămosteanu 👋</h1>
-<h3 align="center">Computer Science Student @ Alexandru Ioan Cuza University | Erasmus+ @ University of Konstanz</h3>
+# Denis Zămosteanu
 
-<p align="center">
-  <a href="https://linkedin.com/in/denis-zamosteanu-12a812266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:zamosteanudenis567@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-</p>
+Computer Science student at Alexandru Ioan Cuza University, Iași, Romania.
 
-<p align="center">
-  🎓 <strong>Passionate about Algorithms, Data Structures, and Software Engineering.</strong><br>
-  I'm currently building my technical foundation through rigorous academic projects and exploring lower-level systems programming.
-</p>
+I am passionate about Algorithms, Data Structures, and Software Engineering. I am currently
+building my technical foundation through rigorous academic projects, exploring lower-level 
+systems programming, and advancing my studies internationally.
 
----
+## About
 
-### 🚀 What I'm up to:
-- 🌍 **Studying abroad** as an Erasmus+ Scholarship Recipient at the **University of Konstanz**, Germany (Oct 2026 - Feb 2027)
-- 💻 **Developing** robust C/C++ applications (e.g., POSIX API-based synchronized multi-process tools)
-- 🧠 **Learning** more about Operating Systems, low-level architecture, and algorithmic optimization
-- 📄 You can view my **latest CV** automatically deployed here: **[View CV (PDF)](https://DenisZ39.github.io/cv-denis/)**
+- Studying Computer Science at UAIC, Faculty of Computer Science.
+- Erasmus+ Exchange Student in Computer Science at the University of Konstanz, Germany.
+- Comfortable in C, C++, Java, Bash, and R.
+- Languages: Romanian (native), English (C1), German (A2).
 
-### 🛠️ Languages and Tools:
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
-</p>
+## Technologies
 
+C, C++, Java, Bash, R, HTML/CSS, Linux, POSIX API, Git.
+
+## Selected projects
+
+- **FileOps & ProcOps Tools**
+  — a synchronized multi-process system utilizing POSIX standards, with concurrent 
+  synchronization mechanisms and low-level OS interactions. Built in C/C++.
+
+- **Function Graph Plotter**
+  — a performant C application designed to parse mathematical functions and render their 
+  graphical representations dynamically, with custom algorithms for coordinate scaling. Written in C.
+
+## Contact
+
+- Email: zamosteanudenis567@gmail.com
+- LinkedIn: https://www.linkedin.com/in/denis-zamosteanu-12a812266
+- Resume: https://DenisZ39.github.io/cv-denis/
