@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student @ Alexandru Ioan Cuza University | Erasmus+ @ University of Konstanz</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/denis-zămosteanu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/denis-zamosteanu-12a812266" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:zamosteanudenis567@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
@@ -29,8 +29,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
 </p>
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenisZ39&amp;show_icons=true&amp;theme=radical" alt="DenisZ39's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenisZ39&amp;layout=compact&amp;theme=radical" alt="Top Languages" height="150" />
-</p>
